@@ -1,4 +1,4 @@
-This single page website is not responsive yet.
+
 
 
 
