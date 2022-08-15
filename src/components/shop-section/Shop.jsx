@@ -14,7 +14,9 @@ const Shop = () => {
   return (
     <div className='container shop-container'>
       <div className="left-icon circle"> <AiOutlineArrowLeft/> </div>
-
+        <div className="foods">
+          FOODS
+        </div>
 
         <Card img={FOOD1} name={"Poppardelle"} desc={"With Vegetable"} price={35}/>
         <Card img={FOOD2} name={"Ravioli Stuffed"} desc={"With Pesto Souce"} price={35}/>

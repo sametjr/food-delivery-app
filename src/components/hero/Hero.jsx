@@ -65,7 +65,7 @@ const Hero = () => {
             {/* END OF CONTEXT */}
 
         </div>
-        {/* END OF RIGHT HERO */}
+        {/* END OF LEFT HERO */}
 
 
         <div className="right-hero">

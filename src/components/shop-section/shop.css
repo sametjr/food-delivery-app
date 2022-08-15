@@ -14,3 +14,25 @@
     align-items: center;
     justify-content: center;
 }
+
+.foods{
+    font-size: 28px;
+    font-weight: bolder;
+    display: none;
+}
+
+@media screen and (max-width: 1200px){
+    .left-icon{
+        display: none;
+    }
+
+    .shop-container{
+        flex-direction: column;
+        gap: 6rem;
+    }
+
+    .foods{
+        display: block;
+        margin-top: -2rem;
+    }
+}
